@@ -1,0 +1,66 @@
+body
+{
+	background: lightblue;
+	text-align: center;
+	background-image:url("images.jpg");
+	background-size: cover;
+}
+
+	.login_div1 
+	{
+		background: rgb(119, 228, 57);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-top:20px;
+		margin-left:450px;
+		
+        
+
+	}
+
+	.login_div2
+	{
+		background: rgb(233, 236, 56);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-top:20px;
+		margin-left:450px;
+	
+
+	}
+
+	
+#player1_name , #player2_name
+{
+	
+    font-size:20px;
+	display:inline-block
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+.heading {
+	font-size:30px;
+}
+
+#p1_score,#p2_score {
+	font-size:20px;
+	color:red;
+	
+}
